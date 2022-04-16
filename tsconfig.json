@@ -1,15 +1,16 @@
 {
     "compilerOptions": {
-        "allowJs": false,
+        "allowJs": true,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "target": "es6",
         "sourceMap": true,
         "outDir": "./.tmp/build/",
+        "skipLibCheck": false, 
         "moduleResolution": "node",
         "declaration": true,
         "lib": [
-            "es2015",
+            "es2015", 
             "dom"
         ]
     },

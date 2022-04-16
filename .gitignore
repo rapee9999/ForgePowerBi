@@ -107,3 +107,6 @@ dist
 # Complied files
 webpack.*
 .tmp/
+
+# Acrchived files
+**/*archived*

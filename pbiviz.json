@@ -17,9 +17,12 @@
     "assets": {
         "icon": "assets/icon.png"
     },
-    "externalJS": null,
+    "externalJS": [
+      "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js",
+      "node_modules/jquery/dist/jquery.min.js"
+    ],
     "style": "style/visual.less",
     "capabilities": "capabilities.json",
-    "dependencies": null,
-    "stringResources":[]
+    "dependencies": "dependencies.json",
+    "stringResources": []
 }

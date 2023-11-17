@@ -1,4 +1,4 @@
-# RuthForgePowerBi
+# ForgePowerBi
 Merging forgePowerbiView project into pbiviz-new project
 
 This repo provides a simple and basic code for Powerbi Visuals project, combining:
